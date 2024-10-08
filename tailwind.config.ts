@@ -14,6 +14,9 @@ const config: Config = {
         navGreen: "#2cff05",
         navViolet: "#C32CFF",
       },
+      boxShadow: {
+        dropLight: "0px 0px 77px 10px #fff",
+      },
     },
   },
   plugins: [],
